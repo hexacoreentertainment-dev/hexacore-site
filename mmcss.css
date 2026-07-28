@@ -1,0 +1,96 @@
+body {
+    font-family: 'Georgia', serif;
+    margin: 0;
+    background-color: #fdfdfd;
+    color: #3a2a2a;
+}
+
+header {
+    background-color: #f7f0e8;
+    text-align: center;
+    padding: 20px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #5a2a82;
+    font-weight: bold;
+}
+
+.logo-container {
+    margin-top: 20px;
+}
+
+.logo-container img {
+    width: 120px;
+}
+
+section {
+    padding: 40px;
+    text-align: center;
+}
+
+#projeto {
+    background-color: #f2e3c6;
+}
+
+#manor {
+    background-color: #fff;
+}
+
+.game-images {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin-bottom: 20px;
+}
+
+.game-images img {
+    width: 250px;
+    border-radius: 8px;
+}
+
+.personagens {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.personagens img {
+    width: 150px;
+    border-radius: 10px;
+}
+
+.equipe-container {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    background-color: #e8c8f0;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.membro img {
+    width: 150px;
+    border-radius: 10px;
+}
+
+footer {
+    display: flex;
+    justify-content: space-around;
+    background-color: #f0f0f0;
+    padding: 20px;
+    font-size: 14px;
+}
+.manor {
+    width:50px;
+    height:100px;
+}
